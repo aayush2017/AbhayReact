@@ -1,0 +1,27 @@
+Abhay
+9319266490
+----------
+Start 2:30
+End 3:30
+Website Design + react
+Frontend
+HTML CSS
+JS, JQ
+Bootstrap
+GitHub
+Advanced
+ES6
+nodeJS
+margin
+padding
+Postion
+Float
+Display
+React
+
+Backend
+PHP
+Node
+ASP
+JAVA
+API URL
